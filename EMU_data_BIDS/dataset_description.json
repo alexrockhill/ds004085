@@ -1,0 +1,7 @@
+{
+    "Name": "sEEG Forced Two-Choice Task",
+    "BIDSVersion": "1.9.2",
+    "Authors": [
+        "Alexander P. Rockhill", "Alessandra Mantovani", "Brittany Stedelin", "Admed M. Raslan", "Nicole C. Swann"
+    ]
+}
