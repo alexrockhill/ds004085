@@ -1,0 +1,18 @@
+{
+    "ITI_duration": 4,
+    "RTdet": "n/a",
+    "avgRT": 0.601,
+    "fastduration": 1.5,
+    "fixation_durations": "0.3,0.4,0.5,0.6,0.7",
+    "fixation_onset": 0.3,
+    "leftkey": 37,
+    "number_of_RTtrials": 20,
+    "number_of_blocks": 4,
+    "number_of_practice_trials": 10,
+    "number_of_trials": 300,
+    "practice": "n/a",
+    "rightkey": 39,
+    "slowRTduration": 4,
+    "target_duration": 0.8,
+    "trial_duration": 4.8
+}

@@ -1,0 +1,18 @@
+{
+    "TaskName": "SlowFast",
+    "Manufacturer": "n/a",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 999.4121105232217,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 3535.1872994117643,
+    "RecordingType": "continuous",
+    "iEEGReference": "n/a",
+    "ECOGChannelCount": 0,
+    "SEEGChannelCount": 129,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0
+}

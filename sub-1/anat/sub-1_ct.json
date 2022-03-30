@@ -1,0 +1,24 @@
+{
+	"Modality": "CT",
+	"ManufacturersModelName": "O-arm_MVS_O2",
+	"InstitutionName": "OHSU",
+	"InstitutionalDepartmentName": "DEFAULT",
+	"DeviceSerialNumber": "1545",
+	"StationName": "MVS",
+	"SoftwareVersions": "4.1.0",
+	"SeriesDescription": "Standard",
+	"ProtocolName": "Standard",
+	"ImageType": ["DERIVED", "PRIMARY", "AXIAL"],
+	"RawImage": false,
+	"SeriesNumber": 2,
+	"ReconMatrixPE": 512,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20190902"
+}
