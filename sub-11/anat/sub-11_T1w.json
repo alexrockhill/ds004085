@@ -137,5 +137,9 @@
 		0.980444,
 		-0.194528	],
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20190902"
+	"ConversionSoftwareVersion": "v1.0.20190902",
+	"AnatomicalLandmarkCoordinates": {
+		"AC": [0.37997672,8.50146082,3.72818376],
+		"PC": [0.06807749,-16.19329915,7.61039301]
+	}
 }

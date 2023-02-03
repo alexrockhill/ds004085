@@ -47,5 +47,9 @@
 		0	],
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20190902"
+	"ConversionSoftwareVersion": "v1.0.20190902",
+	"AnatomicalLandmarkCoordinates": {
+		"AC": [-0.03634544,36.10766784,34.33590597],
+		"PC": [1.49024776,11.38936025,37.75274419]
+	}
 }

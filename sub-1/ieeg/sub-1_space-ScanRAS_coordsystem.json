@@ -1,0 +1,5 @@
+{
+    "iEEGCoordinateSystem": "ScanRAS",
+    "iEEGCoordinateUnits": "m",
+    "IntendedFor": "derivatives/freesurfer-7.3.2/sub-1/mri/T1.mgz"
+}
